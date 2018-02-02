@@ -260,7 +260,7 @@ button:hover {
 	align-items: center;
 }
 .fogimg {
-	background-image: url(http://www.pngall.com/wp-content/uploads/2017/01/Fog-PNG-HD.png);
+	background-image: url(images/fog.png);
 	background-repeat: no-repeat;
     background-position: top;
 	background-size: cover;
