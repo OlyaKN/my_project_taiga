@@ -89,6 +89,7 @@ header {
 img {
 	width: 100%;
 	margin: 5px;
+	border-top: 5px solid white;
 }
 section {
   padding-top: 50%;
