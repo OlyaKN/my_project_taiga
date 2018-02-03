@@ -171,7 +171,7 @@ main {
 @media only screen and (min-width: 800px){
 .text {
 	position: absolute;
-	top: 10px;
+	top: 50px;
 	left: 8px;
 	right: 480px;
 	font-size: 25px;
