@@ -212,7 +212,7 @@ li {
 @media only screen and (min-width: 1000px) {
 	.text {
 	position: absolute;
-	top: 20px;
+	top: 50px;
 	left: 8px;
 	right: 600px;
 	font-size: 30px;
