@@ -74,6 +74,10 @@ nav ul a:hover {
   background-color: rgba(0, 0, 0, 0.7);
   position: absolute;
 }
+header {
+	position: relative;
+	z-index: -1;
+}
 img {
 	position: relative;
 	width: 100%;
