@@ -86,10 +86,10 @@ header {
 	margin: 15px;
 	text-align: justify;
 }
-img {
+section img {
 	width: 100%;
 	margin: 5px;
-	border-top: 5px solid white;
+	border-top: 10px solid white;
 }
 section {
   padding-top: 50%;
