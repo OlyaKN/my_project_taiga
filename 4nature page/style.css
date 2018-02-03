@@ -86,11 +86,6 @@ header {
 	margin: 15px;
 	text-align: justify;
 }
-section img {
-	width: 100%;
-	margin: 5px;
-	border-top: 10px solid white;
-}
 section {
   padding-top: 50%;
   position: relative;
@@ -101,6 +96,7 @@ section img {
   left: 0;
   width: 100%;
   height: auto;
+  border-top: 10px solid white;
 }
 #home {
 	width: 40px;
