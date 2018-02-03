@@ -90,6 +90,17 @@ img {
 	width: 100%;
 	margin: 5px;
 }
+section {
+  padding-top: 50%;
+  position: relative;
+}
+section img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+}
 #home {
 	width: 40px;
 	height: 40px;
