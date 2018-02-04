@@ -121,24 +121,6 @@ button {
 	transform: scale(1.3);
 }
 @media only screen and (min-width: 800px) {
-.content {
-	background-image: url(https://raw.githubusercontent.com/OlyaKN/my_project_taiga/master/images/Fog.png);
-	background-repeat: no-repeat;
-    background-position: top;
-	background-size: cover;
-	z-index: 1;
-	-webkit-animation: animatedfog 8s ease-out;
-    animation: animatedfog 8s ease-out;
-	animation-iteration-count: 1;
-}
-@keyframes animatedfog {
-	from {background-position: 0 100%;}
-    to {background-position: 0 0;}
-}
-@-webkit-keyframes animatedfog {
-    from {background-position: 0 0;}
-    to {background-position: 50% 0;}
-}
 nav ul.hidden {
     position: fixed;
     display: flex;
